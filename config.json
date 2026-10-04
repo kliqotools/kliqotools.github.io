@@ -1,0 +1,8 @@
+{
+  "site_name": "Kliqo",
+  "main_site": "https://kliqo.site",
+  "post_url": "https://kliqo.site/?id={entry_id}",
+  "base_url": "",
+  "publish_limit": 500,
+  "category_label": "AI & ML Tools"
+}
